@@ -6,4 +6,4 @@ function ninenine(dan: number) {
   }
 }
 
-ninenine(8);
+ninenine(9);
